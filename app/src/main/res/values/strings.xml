@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">ScanSafe</string>
+    <string name="app_subtitle">Escáner de Seguridad y Toxicidad</string>
+    <string name="developer_name">Luis Miguel &amp; VigilSafe Labs</string>
+    <string name="developer_tagline">Ingeniería en Seguridad Química, Botánica y del Consumidor</string>
+    <string name="app_version">1.0.0 (Build 100)</string>
+
+    <!-- Navigation -->
+    <string name="nav_scan">Escanear</string>
+    <string name="nav_catalog">Catálogo</string>
+    <string name="nav_analyzer">Ingredientes</string>
+    <string name="nav_history">Historial</string>
+    <string name="nav_emergency">Emergencias</string>
+
+    <!-- Scanner -->
+    <string name="scanner_title">Escáner Inteligente</string>
+    <string name="scanner_instruction">Apunta la cámara a una planta, producto químico, alimento o ingrediente</string>
+    <string name="scanner_capture">Escanear ahora</string>
+    <string name="scanner_gallery">Seleccionar foto</string>
+    <string name="scanner_flash_on">Flash encendido</string>
+    <string name="scanner_flash_off">Flash apagado</string>
+    <string name="scanner_camera_permission_title">Permiso de Cámara Requerido</string>
+    <string name="scanner_camera_permission_desc">ScanSafe necesita acceso a la cámara para escanear productos y plantas en tiempo real.</string>
+    <string name="scanner_grant_permission">Conceder Permiso</string>
+
+    <!-- Hazard Levels -->
+    <string name="hazard_safe">SEGURO / NO TÓXICO</string>
+    <string name="hazard_caution">PRECAUCIÓN / MODERADO</string>
+    <string name="hazard_harmful">DAÑINO / TÓXICO</string>
+    <string name="hazard_critical">PELIGRO CRÍTICO / VENENOSO</string>
+
+    <!-- Search & Filters -->
+    <string name="search_hint">Buscar cualquier planta, químico o producto...</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_plants">Plantas y Matas</string>
+    <string name="filter_food">Alimentos y Hongos</string>
+    <string name="filter_chemicals">Químicos del Hogar</string>
+    <string name="filter_cosmetics">Cosméticos y Cuidado</string>
+    <string name="filter_critters">Insectos y Fauna</string>
+
+    <!-- Details -->
+    <string name="section_toxicity">Evaluación de Toxicidad</string>
+    <string name="section_humans">Peligro en Humanos</string>
+    <string name="section_pets">Peligro en Mascotas (Perros/Gatos)</string>
+    <string name="section_symptoms">Síntomas Notables</string>
+    <string name="section_first_aid">Primeros Auxilios Inmediatos</string>
+    <string name="section_recommendations">Consejos de Manipulación</string>
+    <string name="section_chemical_compounds">Compuestos o Toxinas</string>
+
+    <!-- Analyzer -->
+    <string name="analyzer_title">Analizador de Etiquetas</string>
+    <string name="analyzer_desc">Pega o escribe los ingredientes o componentes químicos de cualquier producto para evaluar su índice de toxicidad.</string>
+    <string name="analyzer_placeholder">Ejemplo: Aqua, Sodium Laureth Sulfate, Phenoxyethanol, Parabens, Fragrance...</string>
+    <string name="analyzer_button">Analizar Componentes</string>
+
+    <!-- History -->
+    <string name="history_title">Historial de Análisis</string>
+    <string name="history_empty">No hay escaneos recientes todavía. Comienza apuntando la cámara o buscando en el catálogo.</string>
+    <string name="history_clear">Limpiar historial</string>
+
+    <!-- Emergency -->
+    <string name="emergency_title">Líneas de Emergencia Toxicológica</string>
+    <string name="emergency_protocol">Protocolo Rápido de Intoxicación</string>
+    <string name="emergency_alert">Ante cualquier sospecha de envenenamiento o contacto severo, acude a urgencias inmediatamente o llama a los centros toxicológicos autorizados.</string>
+</resources>
